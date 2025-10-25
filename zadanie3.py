@@ -8,7 +8,7 @@
 # sprawdza ona, czy ciąg znaków (Nazwa_pliku) kończy się podanym sufiksem (w tym przypadku
 # '.xlsx').
 
-Nazwa_pliku = "zadanie3.xlsx"
+Nazwa_pliku = "Raport_maj.xlsx"
 
 if Nazwa_pliku.endswith(".xlsx"):
     print("tak")
