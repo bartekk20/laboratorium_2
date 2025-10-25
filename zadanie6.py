@@ -3,7 +3,7 @@
 
 print("Program sprawdzjący czy podana litera przez użytkownika jest wielka lub mała")
 
-litera = str("Podaj literę: ")
+litera = str(input("Podaj literę: "))
 
 if litera.isupper():
     print("Litera jest wielka")
