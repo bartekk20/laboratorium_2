@@ -6,4 +6,4 @@ znak = "!"
 if dlugosc_hasla == 11 and znak in Hasło:
     print("Hasło jest poprawne")
 else:
-    print("Hasło jest błędne")
+    print("Hasło jest niepoprawne")
